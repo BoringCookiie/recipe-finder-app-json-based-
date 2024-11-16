@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Spaghetti Carbonara",
+      "cuisine": "Italian",
+      "image": "https://via.placeholder.com/250",
+      "ingredients": ["Spaghetti", "Eggs", "Pancetta", "Parmesan", "Black Pepper"]
+    },
+    {
+      "name": "Chicken Curry",
+      "cuisine": "Indian",
+      "image": "https://via.placeholder.com/250",
+      "ingredients": ["Chicken", "Onions", "Tomatoes", "Spices", "Coconut Milk"]
+    },
+    {
+      "name": "Sushi",
+      "cuisine": "Japanese",
+      "image": "https://via.placeholder.com/250",
+      "ingredients": ["Rice", "Nori", "Fish", "Soy Sauce", "Wasabi"]
+    }
+  ]
+  

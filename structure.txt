@@ -1,0 +1,5 @@
+recipe-website/
+├── index.html
+├── style.css
+├── script.js
+├── recipes.json
